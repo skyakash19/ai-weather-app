@@ -8,7 +8,7 @@ import Lottie from 'lottie-react';
 import weatherAnimation from './weat.json';
 import './App.css';
 
-const API_KEY = 'qw785962314kijuhytfrde'; // Replace with your actual API key
+const API_KEY = 'qw785962314kijuhy''tfrde'; // Replace with your actual API key
 
 const WeatherApp = () => {
     const [city, setCity] = useState('');
